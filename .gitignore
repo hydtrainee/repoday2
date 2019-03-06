@@ -3,5 +3,6 @@ target/
 *.log
 **/password.txt
 **/*.jar
-
-*.dllbin/*.dll
+*.dll
+bin/*.dll
+d2m/*.dll
